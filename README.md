@@ -8,6 +8,7 @@ It includes just what you need to get started with React and Redux and nothing m
 * Redux 4
 * git ignore so you are no longer pushing up the node modules folder
 * Source Mapping for debugging
+
 Getting Started
 
 There are two methods for getting started with this repo.
@@ -36,3 +37,4 @@ Click [here](https://github.com/Jayce77/ReduxSimpleStarterV2/archive/master.zip)
 > npm install
 > npm start
 ```
+9. Update any other packages as necessary (lodash, redux-form, etc.)
