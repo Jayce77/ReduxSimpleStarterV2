@@ -4,22 +4,16 @@
   "description": "A follow up to Steven Grider's ReduxSimpleStarter",
   "main": "index.js",
   "scripts": {
-
     "test": "echo \"Error: no test specified\" && exit 1",
-
     "build": "webpack",
-
     "watch": "webpack --watch",
-
     "start": "webpack-dev-server --open"
-
   },
-
   "repository": {
     "type": "git",
     "url": "git@github.com:Jayce77/ReduxSimpleStarterV2.git"
   },
-  "author": "Jayce Crowter",
+  "author": "Jayce Crowther",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
